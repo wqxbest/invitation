@@ -7,6 +7,7 @@ body {
   align-items: center;
   background-image: linear-gradient(rgba(16, 16, 16, 0.3), rgba(16, 16, 16, 0.3)), url(http://img.zhaohaodong.com/wedding.jpg);
   background-size: cover;
+  background-position:center;
 }
 
 p {
@@ -18,7 +19,8 @@ p {
   line-height: 1.8;
   color: white;
   /* font-family: Lora, serif; */
-  font-family: Microsoft Yahei;
+  /* font-family: Microsoft Yahei; */
+  font-family:  STXingkai;
   display: none;
 }
 .glowIn span {
